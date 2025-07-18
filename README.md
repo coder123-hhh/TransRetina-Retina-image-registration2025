@@ -1,6 +1,6 @@
 # Deep Registration Model
 
-![Model](../images/model.png)
+![Model](/image/model.png)
 
 ## Overview
 
